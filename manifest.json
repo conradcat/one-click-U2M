@@ -1,0 +1,10 @@
+{
+  "name": "One click U2M",
+  "description": "Convert Youtube to MP3",
+  "version": "0.01",
+  "permissions": ["http://www.youtube-mp3.org/*",  "contextMenus", "tabs"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}
